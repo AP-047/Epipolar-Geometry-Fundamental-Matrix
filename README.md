@@ -10,8 +10,4 @@ This project explores the relative orientation of an image pair through epipolar
 - **Geometric Error Analysis**: Calculation of the symmetric epipolar distance to evaluate the accuracy of the fundamental matrix.
 
 ## Technologies
-- **MATLAB/Octave**: For implementing algorithms and visualization.
-- **Custom MATLAB Functions**: `computeFundamentalMatrix.m` for fundamental matrix computation, `calculateGeometricError.m` for error analysis.
-
-## Getting Started
-The repository includes all MATLAB scripts and functions necessary to replicate the project's findings, alongside instructions for running the analysis and visualizing the results.
+- **MATLAB**: For implementing algorithms and visualization.
